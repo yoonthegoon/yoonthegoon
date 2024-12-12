@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🦀 I'm currently learning Rust. 🍄
+
+🐍 Ask if about Python or Django if you require consulting for either. 🦄
+
+🐖 You can reach me in either the official Python or Django Discord servers; I am relatively active in both. 🤖
+
 <!--
 **yoonthegoon/yoonthegoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
