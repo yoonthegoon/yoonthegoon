@@ -2,7 +2,7 @@
 
 🦀 I'm currently learning Rust. 🍄
 
-🐍 Ask if about Python or Django if you require consulting for either. 🦄
+🐍 Ask me about Python or Django if you require consulting for either. 🦄
 
 🐖 You can reach me in either the official Python or Django Discord servers; I am relatively active in both. 🤖
 
